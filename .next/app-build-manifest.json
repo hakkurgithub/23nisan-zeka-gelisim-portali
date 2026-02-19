@@ -1,0 +1,48 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-47a5f2cdd09766d2.js",
+      "static/chunks/c7879cf7-b5ab1053c1d9a2e7.js",
+      "static/chunks/131-88d7d53e853fc9ed.js",
+      "static/chunks/main-app-60c363d12effe8c4.js",
+      "static/chunks/app/_not-found/page-de93dc87e34a57de.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-47a5f2cdd09766d2.js",
+      "static/chunks/c7879cf7-b5ab1053c1d9a2e7.js",
+      "static/chunks/131-88d7d53e853fc9ed.js",
+      "static/chunks/main-app-60c363d12effe8c4.js",
+      "static/chunks/app/layout-5aaa34d2b124a840.js"
+    ],
+    "/atolyeler/page": [
+      "static/chunks/webpack-47a5f2cdd09766d2.js",
+      "static/chunks/c7879cf7-b5ab1053c1d9a2e7.js",
+      "static/chunks/131-88d7d53e853fc9ed.js",
+      "static/chunks/main-app-60c363d12effe8c4.js",
+      "static/chunks/app/atolyeler/page-37b8704f1bc2ea3b.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack-47a5f2cdd09766d2.js",
+      "static/chunks/c7879cf7-b5ab1053c1d9a2e7.js",
+      "static/chunks/131-88d7d53e853fc9ed.js",
+      "static/chunks/main-app-60c363d12effe8c4.js",
+      "static/chunks/950-395efaf63b537d7f.js",
+      "static/chunks/app/dashboard/page-268d3d1df2c40e6e.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-47a5f2cdd09766d2.js",
+      "static/chunks/c7879cf7-b5ab1053c1d9a2e7.js",
+      "static/chunks/131-88d7d53e853fc9ed.js",
+      "static/chunks/main-app-60c363d12effe8c4.js",
+      "static/chunks/950-395efaf63b537d7f.js",
+      "static/chunks/app/login/page-3adfe3d149e43399.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-47a5f2cdd09766d2.js",
+      "static/chunks/c7879cf7-b5ab1053c1d9a2e7.js",
+      "static/chunks/131-88d7d53e853fc9ed.js",
+      "static/chunks/main-app-60c363d12effe8c4.js",
+      "static/chunks/app/page-a593340f73b66b99.js"
+    ]
+  }
+}
