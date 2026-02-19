@@ -1,8 +1,7 @@
-import MainLayout from '../../components/MainLayout';
-export default function Atolyeler() {
+export default function Atolye() {
   return (
-    <MainLayout>
-      <h1>Atolyeler</h1>
-    </MainLayout>
+    <div style={{ padding: "50px" }}>
+      <h1>Atolye Sayfasi</h1>
+    </div>
   );
 }

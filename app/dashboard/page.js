@@ -1,8 +1,8 @@
-import MainLayout from '../../components/MainLayout';
 export default function Dashboard() {
   return (
-    <MainLayout>
-      <h1>Dashboard</h1>
-    </MainLayout>
+    <div style={{ padding: "50px" }}>
+      <h1>Dashboard Page</h1>
+      <p>Veri takibi burada olacak.</p>
+    </div>
   );
 }
